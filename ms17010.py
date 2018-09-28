@@ -12,7 +12,7 @@ def get_plugin_info():
         "info": "攻击者通过此漏洞最终可以获取服务器权限的效果。",
         "level": "严重",
         "type": "命令执行",
-        "author": "zhangdaoyuan@banggood.com",
+        "author": "muYoz@bg",
         "url": "",
         "keyword": "server:smb",
         "source": 1
