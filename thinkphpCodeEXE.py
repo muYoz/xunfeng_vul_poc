@@ -7,7 +7,7 @@ def get_plugin_info():
         "info": "攻击者可利用${@phpinfo()}构造代码进行入侵，获得服务器权限",
         "level": "高危",
         "type": "代码执行",
-        "author": "zhangdaoyuan@banggood.com",
+        "author": "muYoz@bg",
         "url": "https://github.com/ym2011/POC-EXP/blob/master/thinkphp/thinkphpCodeEXE.py",
         "keyword": "tag:php",
         "source": 1
