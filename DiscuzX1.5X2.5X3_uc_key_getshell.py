@@ -14,7 +14,7 @@ def get_plugin_info():
         "info": "在/config/config_ucenter.php中获取的webshell，以执行任意的shell命令,最终完全控制目标系统",
         "level": "紧急",
         "type": "命令执行",
-        "author": "zhangdaoyuan@banggood.com",
+        "author": "muYoz@bg",
         "url": "https://github.com/ym2011/POC-EXP/blob/master/Discuz/DiscuzX1.5X2.5X3%20uc_key%20getshell/",
         "keyword": "tag:discuz",
         "source": 1
