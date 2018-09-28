@@ -9,7 +9,7 @@ def get_plugin_info():
         "info": "攻击者可利用key构造SQL语句进行注入",
         "level": "高危",
         "type": "SQL注入",
-        "author": "zhangdaoyuan@banggood.com",
+        "author": "muYoz@bg",
         "url": "https://mp.weixin.qq.com/s/jDvOif0OByWkUNLv0CAs7w",
         "keyword": "tag:php",
         "source": 1
