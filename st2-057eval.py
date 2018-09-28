@@ -10,7 +10,7 @@ def get_plugin_info():
         "info": "可直接执行任意代码，进而直接导致服务器被入侵控制。0928",
         "level": "紧急",
         "type": "代码执行",
-        "author": "zhangdaoyuan@banggood.com",
+        "author": "muYoz@bg",
         "url": "https://github.com/hook-s3c/CVE-2018-11776-Python-PoC/blob/master/",
         "keyword": "tag:tomcat;tag:jsp",
         "source": 1
