@@ -11,7 +11,7 @@ def get_plugin_info():
         "info": "Discuz论坛forum.php参数message SSRF漏洞,trs infogate插件 blind XML实体注入",
         "level": "中危",
         "type": "SSRF",
-        "author": "zhangdaoyuan@banggood.com",
+        "author": "muYoz@bg",
         "url": "https://github.com/Lucifer1993/AngelSword/blob/master/cms/discuz/discuz_forum_message_ssrf.py",
         "keyword": "tag:php",
         "source": 1
