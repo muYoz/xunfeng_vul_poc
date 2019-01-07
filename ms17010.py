@@ -389,7 +389,7 @@ def check(ip, port, timeout=5):
         # 0xC0000022 - STATUS_ACCESS_DENIED
 
         if nt_status == '\x05\x02\x00\xc0':
-            return u"存在SMB远程代码执行ms17-010漏洞"
+            return u"存在SMB远程代码执行ms17-010漏洞111"
 
     except:
         pass
