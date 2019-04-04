@@ -8,7 +8,7 @@ def get_plugin_info():
         "info": "攻击者可利用远程命令执行，获取服务器权限",
         "level": "高危",
         "type": "代码执行",
-        "author": "zhangdaoyuan@banggood.com",
+        "author": "zhangdaoyuan@bg",
         "url": "https://www.exploit-db.com/exploits/46459",
         "keyword": "tag:php",
         "source": 1
