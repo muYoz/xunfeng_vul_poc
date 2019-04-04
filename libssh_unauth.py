@@ -9,7 +9,7 @@ def get_plugin_info():
         "info": "攻击者可以在没有密钥的情况下成功进行身份验证并获取受影响服务器的 shell",
         "level": "高危",
         "type": "身份验证绕过",
-        "author": "zhangdaoyuan@banggood.com",
+        "author": "zhangdaoyuan@bg",
         "url": "https://github.com/blacknbunny/libSSH-Authentication-Bypass",
         "keyword": "server:ssh",
         "source": 1
